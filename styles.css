@@ -5,6 +5,9 @@
   #welcome-section h1{
     font-size: 60px;
   }
+  #projects h2{
+    font-size:20px;
+  }
   .project-image{
     display: flex;
     justify-content: center;
