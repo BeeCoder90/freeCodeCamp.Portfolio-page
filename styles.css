@@ -5,6 +5,10 @@
   #welcome-section h1{
     font-size: 60px;
   }
+  .project-image{
+    display: flex;
+    justify-content: center;
+  }
 }
 :root{
   --color1: #ea9d3e;
